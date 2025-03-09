@@ -4,12 +4,12 @@ import Column from "./Components/Column";
 function App() {
   return (
     <>
-      {/* <div className="App">
+      <div className="App">
         <Column state="PLANNED" />
         <Column state="ONGOING" />
         <Column state="DONE" />
-      </div> */}
-      <LandingNavigation />
+      </div>
+      {/* <LandingNavigation /> */}
     </>
   );
 }
